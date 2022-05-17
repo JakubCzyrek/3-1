@@ -30,7 +30,7 @@ class Main {
           }
         }  
       }
-      
+    
     }
     odczyt.close();
     } 
